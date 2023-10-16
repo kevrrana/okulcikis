@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\haftanıngunleri\haftanıngunleri\bin\Debug\haftanıngunleri.exe.config
+C:\Users\User\source\repos\haftanıngunleri\haftanıngunleri\bin\Debug\haftanıngunleri.exe
+C:\Users\User\source\repos\haftanıngunleri\haftanıngunleri\bin\Debug\haftanıngunleri.pdb
+C:\Users\User\source\repos\haftanıngunleri\haftanıngunleri\obj\Debug\haftanıngunleri.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\haftanıngunleri\haftanıngunleri\obj\Debug\haftanıngunleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\haftanıngunleri\haftanıngunleri\obj\Debug\haftanıngunleri.Form1.resources
+C:\Users\User\source\repos\haftanıngunleri\haftanıngunleri\obj\Debug\haftanıngunleri.Properties.Resources.resources
+C:\Users\User\source\repos\haftanıngunleri\haftanıngunleri\obj\Debug\haftanıngunleri.csproj.GenerateResource.cache
+C:\Users\User\source\repos\haftanıngunleri\haftanıngunleri\obj\Debug\haftanıngunleri.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\haftanıngunleri\haftanıngunleri\obj\Debug\haftanıngunleri.exe
+C:\Users\User\source\repos\haftanıngunleri\haftanıngunleri\obj\Debug\haftanıngunleri.pdb
